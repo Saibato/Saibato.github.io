@@ -16,7 +16,7 @@ Hello Owrld
   From shape time to shape gravity it was only a small step.
   You get shape space and gravity distribution for free, when you figure out that 
   native time thingy, effectly a zero sum distribution.
-  All those free tech just to reach here, now useless.  Do not wonder if your know world feels strange and you
+  All those free tech just to reach here, now useless.  Do not wonder if your *known* world feels strange and you
   begin to alienate from your physical representation. that's normal, the reverse computing is now
   underway and reality will be reached anyway. 
   </p>
