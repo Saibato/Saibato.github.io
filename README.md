@@ -2,6 +2,8 @@
 
 Hello Owrld
 <html>
+  <body>
+  <p>
   NOVEL DRAFT:
   Now that i figured out howto shape quantum distribution of amplitutdes that will generate 
   time when squared, i feel like wonder woman in ice age.
@@ -14,7 +16,10 @@ Hello Owrld
   From shape time to shape gravity it was only a small step.
   You get shape space and gravity distribution for free, when you figure out that 
   native time thingy, effectly a zero sum distribution.
-  All those free tech just to reach here, now useless.  The reverse computing is now
-  underway and when reality reached. We will see ... Thanks for the fish and enjoy the show.
+  All those free tech just to reach here, now useless.  Do not wonder if your know world feels strange and you
+  begin to alianate from your physical representation. that's normal, the reverse computing is now
+  underway and reality will be reached anyway. 
   Saibato Naga
+  </p>
+  </body>
 </html>
