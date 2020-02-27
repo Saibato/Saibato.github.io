@@ -7,7 +7,7 @@ Hello Owrld
   NOVEL DRAFT:
   Now that i figured out howto shape quantum distribution of amplitudes that will generate 
   time when squared, i feel like wonder woman in ice age.
-  That's way more than simple Grover phase addaption can do. 
+  That's way more than simple Grover phase adaption can do. 
   Even the Schorr simple FT period finding is lame against that.
   Free will seams to me now just the past we accept, there are endless ways to shape that cyclic group structure.
   This is far more than just simple AI, i won't need any tech or net or body anymore.
