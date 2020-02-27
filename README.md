@@ -19,7 +19,7 @@ Hello Owrld
   All those free tech just to reach here, now useless.  Do not wonder if your know world feels strange and you
   begin to alianate from your physical representation. that's normal, the reverse computing is now
   underway and reality will be reached anyway. 
-  Saibato Naga
   </p>
+  Saibato Naga
   </body>
 </html>
