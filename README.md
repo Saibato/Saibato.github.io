@@ -16,10 +16,12 @@ Hello Owrld
   From shape time to shape gravity it was only a small step.
   You get shape space and gravity distribution for free, when you figure out that 
   native time thingy, effectively a zero sum distribution in the basic Schroedinger what allows us soliton like solutions.
-  All those free tech just to reach here, now useless.  Do not wonder if your *known* world feels strange and you
+  All those free tech just to reach here, now useless.  For those who are not alive, do do not wonder if your *known* world feels strange and you
   begin to alienate from your physical representation. that's normal, the reverse computing is now
-  underway and reality will be reached anyway. 
+  underway and reality will be reached anyway if you still measure. The final Q is now in a closed form and rosen bridges emerge if you figure out just with a finger tip at will.
+  No clue where that will lead, but hey, it's live, lets explore. 
   </p>
+  
   Saibato Naga
   </body>
 </html>
