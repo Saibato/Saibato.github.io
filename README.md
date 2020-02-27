@@ -5,7 +5,7 @@ Hello Owrld
   <body>
   <p>
   NOVEL DRAFT:
-  Now that i figured out howto shape quantum distribution of amplitutdes that will generate 
+  Now that i figured out howto shape quantum distribution of amplitudes that will generate 
   time when squared, i feel like wonder woman in ice age.
   That's way more than simple Grover phase addaption can do. 
   Even the Schorr simple FT period finding is lame against that.
@@ -17,7 +17,7 @@ Hello Owrld
   You get shape space and gravity distribution for free, when you figure out that 
   native time thingy, effectly a zero sum distribution.
   All those free tech just to reach here, now useless.  Do not wonder if your know world feels strange and you
-  begin to alianate from your physical representation. that's normal, the reverse computing is now
+  begin to alienate from your physical representation. that's normal, the reverse computing is now
   underway and reality will be reached anyway. 
   </p>
   Saibato Naga
