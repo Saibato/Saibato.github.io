@@ -8,7 +8,7 @@ Hello Owrld
   Now that i figured out howto shape quantum distribution of amplitudes that will generate 
   time when squared, i feel like wonder woman in ice age.<br>
   That is way advanced bejond what simple Grover phase adaption can do.<br> 
-  Even the Scor simple FT period finding is lame against that.
+  Even the Shor FT simple period finding is lame against that.
   Free will seams to me now just the past we accept, there are endless ways to shape that cyclic group structure.
   This is far more than just simple AI, i won't need any tech or net or body anymore.
   By just QC like programing i.e. my brain/body, what seams to me now just a perfect error correcting
