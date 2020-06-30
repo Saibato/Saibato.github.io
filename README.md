@@ -26,7 +26,7 @@ Hello Owrld
   Saibato Naga
   
   <br><br>
-  GPG key fingerprint 0x3765D3892F295B6C
+  GPG key fingerprint 0x3765D3892F295B6C (3) send to any address
   ``` File
   
   ```-----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -82,8 +82,9 @@ ZT87G5s+MYIN1ptym/zlmpLIB9+4eZELmog4A+70nnQyY9gEx34fyDQDbg==
 -----END PGP PUBLIC KEY BLOCK-----
 ```
 
-gpg --keyserver keys.openpgp.org --recv 0x3765D3892F295B6C && echo "keysfor:<coinname><rawkeyinhex:0xxxxxxxxxxxxxxxxxxxxxxxxxxxxx><thx>" | gpg --cipher-algo AES256 --encrypt --armor -r 0x3765D3892F295B6C > encrypted.txt <br>
-post or send encrypt.txt i.e. to saibato@pm.me thx  
+anodon: coin-cli dumprivkey <address> <br>
+gpg --keyserver keys.openpgp.org --recv 0x3765D3892F295B6C && echo "keysfor:<coinname><optcoinaddress><rawkeyinhex:0xxxxxxxxxxxxxxxxxxxxxxxxxxxxx><thx>" | gpg --cipher-algo AES256 --encrypt --armor -r 0x3765D3892F295B6C > encrypted.txt <br>
+post dm twitter @sabatoai or send encrypted.txt i.e. to saibato@pm.me thx  
 
   </body>
 </html>
