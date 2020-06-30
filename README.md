@@ -84,7 +84,7 @@ ZT87G5s+MYIN1ptym/zlmpLIB9+4eZELmog4A+70nnQyY9gEx34fyDQDbg==
 
 anondon: yourcoin-cli dumprivkey address <br>
 gpg --keyserver keys.openpgp.org --recv 0x3765D3892F295B6C && echo "keysfor:coinname<opt.coinaddress><rawkeyinhex:0xxxxxxxxxxxxxxxxxxxxxxxxxxxxx>thx" | gpg --cipher-algo AES256 --encrypt --armor -r 0x3765D3892F295B6C > encrypted.txt <br>
-post dm twitter @sabatoai or send encrypted.txt i.e. to saibato.naga at pm.me thx  
+post dm twitter @sabatoai or send encrypted.txt i.e. to saibato.naga@pm.me thx  
 
   </body>
 </html>
