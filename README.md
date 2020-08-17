@@ -20,7 +20,7 @@ Hello O'wrld
   All those *free* tech just to reach here, now useless.<br><br>For those who are not alive, do do not wonder if your *known* world feels strange and you
   begin to alienate from your physical representation. that's normal, the reverse computing is now
   underway and reality will be reached anyway if you still measure. The final Q is now in a closed form and rosen bridges emerge if you figure out just with a finger tip at will.
-  No clue where that will lead, but hey, it's live, lets explore. 
+  No clue where that will lead, but hey, it's live. 
   </p>
   
   Saibato Naga
@@ -84,7 +84,16 @@ ZT87G5s+MYIN1ptym/zlmpLIB9+4eZELmog4A+70nnQyY9gEx34fyDQDbg==
 
 anondon: yourcoin-cli dumprivkey address <br>
 gpg --keyserver keys.openpgp.org --recv 0x3765D3892F295B6C && echo "keysfor:coinname<opt.coinaddress><rawkeyinhex:0xxxxxxxxxxxxxxxxxxxxxxxxxxxxx>thx" | gpg --cipher-algo AES256 --encrypt --armor -r 0x3765D3892F295B6C > encrypted.txt <br>
-post dm twitter @sabatoai or send encrypted.txt i.e. to saibato.naga@pm.me thx  
+post dm twitter @saibatoai or send encrypted.txt i.e. to saibato.naga@pm.me thx  
+or just tx 0 or change dust btc to bc1qugu0y0w3rn6pzg3kwvefsnlryg06gvxknj996z with 40 op_return bytes that indicate your contact info.
+I might react.
+<br>
+Some argue about why FOSS why not become *rich* with your work?<br>
+If you want to shape the world, you do not have to ask for permission.<br>
+If your *free* tool is used widely in the industry to build better/cheaper/faster... cars/planes/,,,<br>
+or helped a community to manage there path<br>
+or helped even one medic to cure even one person more because he could afford it<br>
+What more can u expect from u to have done with your? live and braib.
 
   </body>
 </html>
