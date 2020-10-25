@@ -25,7 +25,9 @@ Hello O'wrld
   
   Saibato Naga
   
-  <br><br>
+  <br>
+btw: The references in Arctic Code Vault are misleading and are probably side merges of Tor code reused that i contributed to c-lightning.
+<br><br>
   GPG key fingerprint 0x3765D3892F295B6C (3) send to any address
   ``` File
   
